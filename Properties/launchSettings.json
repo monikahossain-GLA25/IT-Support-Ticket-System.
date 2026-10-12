@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IT Support Ticket System.": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
